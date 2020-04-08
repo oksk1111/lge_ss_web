@@ -3,7 +3,7 @@ from django.contrib import admin
 # Register your models here.
 from django.utils.safestring import mark_safe
 
-from .models import Post
+from .models import Post, Comment
 
 
 @admin.register(Post)
@@ -18,6 +18,10 @@ class PostAdmin(admin.ModelAdmin):
             return mark_safe(f'<img src="{post.photo.url}" style="width: 72px;" />')
         return None
 
-
     def message_length(self, post):
         return f"{len(post.message)} 글자"
+
+
+@admin.register(Comment)
+class CommentAdmin(admin.ModelAdmin):
+    pass
