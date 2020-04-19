@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b20f7cc6-2a0f-4bc8-8bb0-611cb30f5e69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/askcompany/askcompany/templates/root.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/askcompany.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/askcompany.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/askcompany/instagram/converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/askcompany/instagram/templates/instagram/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/askcompany/instagram/templates/instagram/post_archive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/askcompany/instagram/templates/instagram/post_archive_year.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/askcompany/askcompany/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/askcompany/askcompany/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/askcompany/askcompany/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/askcompany/askcompany/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/askcompany/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/askcompany/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/askcompany/instagram/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/askcompany/instagram/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/askcompany/instagram/templates/instagram/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/askcompany/instagram/templates/instagram/post_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/askcompany/instagram/templates/instagram/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/askcompany/instagram/templates/instagram/post_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/askcompany/instagram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/askcompany/instagram/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/askcompany/instagram/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/askcompany/instagram/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/askcompany/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/askcompany/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,25 +96,25 @@
     </state>
     <state x="1060" y="350" key="FileChooserDialogImpl/0.0.1824.1176@0.0.1824.1176" timestamp="1585968295082" />
     <state x="3408" y="310" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.2560.1040@1920.0.2560.1040" timestamp="1586389543396" />
-    <state width="700" height="323" key="GridCell.Tab.0.bottom" timestamp="1586679985861">
+    <state width="700" height="323" key="GridCell.Tab.0.bottom" timestamp="1587305432642">
       <screen x="0" y="0" width="1824" height="1176" />
     </state>
-    <state width="700" height="323" key="GridCell.Tab.0.bottom/0.0.1824.1176@0.0.1824.1176" timestamp="1586679985861" />
+    <state width="700" height="323" key="GridCell.Tab.0.bottom/0.0.1824.1176@0.0.1824.1176" timestamp="1587305432642" />
     <state width="1256" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.2560.1040@1920.0.2560.1040" timestamp="1586390772854" />
-    <state width="700" height="323" key="GridCell.Tab.0.center" timestamp="1586679985861">
+    <state width="700" height="323" key="GridCell.Tab.0.center" timestamp="1587305432642">
       <screen x="0" y="0" width="1824" height="1176" />
     </state>
-    <state width="700" height="323" key="GridCell.Tab.0.center/0.0.1824.1176@0.0.1824.1176" timestamp="1586679985861" />
+    <state width="700" height="323" key="GridCell.Tab.0.center/0.0.1824.1176@0.0.1824.1176" timestamp="1587305432642" />
     <state width="1256" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.2560.1040@1920.0.2560.1040" timestamp="1586390772854" />
-    <state width="700" height="323" key="GridCell.Tab.0.left" timestamp="1586679985861">
+    <state width="700" height="323" key="GridCell.Tab.0.left" timestamp="1587305432642">
       <screen x="0" y="0" width="1824" height="1176" />
     </state>
-    <state width="700" height="323" key="GridCell.Tab.0.left/0.0.1824.1176@0.0.1824.1176" timestamp="1586679985861" />
+    <state width="700" height="323" key="GridCell.Tab.0.left/0.0.1824.1176@0.0.1824.1176" timestamp="1587305432642" />
     <state width="1256" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.2560.1040@1920.0.2560.1040" timestamp="1586390772852" />
-    <state width="700" height="323" key="GridCell.Tab.0.right" timestamp="1586679985861">
+    <state width="700" height="323" key="GridCell.Tab.0.right" timestamp="1587305432642">
       <screen x="0" y="0" width="1824" height="1176" />
     </state>
-    <state width="700" height="323" key="GridCell.Tab.0.right/0.0.1824.1176@0.0.1824.1176" timestamp="1586679985861" />
+    <state width="700" height="323" key="GridCell.Tab.0.right/0.0.1824.1176@0.0.1824.1176" timestamp="1587305432642" />
     <state width="1256" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.2560.1040@1920.0.2560.1040" timestamp="1586390772854" />
     <state x="828" y="233" key="SettingsEditor" timestamp="1586675937274">
       <screen x="0" y="0" width="1824" height="1176" />

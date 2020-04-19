@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>post_archive.html</title>
+</head>
+<body>
+    <h2>latest</h2>
+    {{ latest }}
+
+    <h2>date_list</h2>
+    {% for date in date_list %}
+        {{ date.year }}
+    {% endfor %}
+
+</body>
+</html>
